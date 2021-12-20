@@ -32,3 +32,4 @@ May 2015 – June 2015**
 	+Top team
 Cases decisions, research on demand, introduction of draft decision in PowerPoint, oral presentation to the experts
 
+[Github link](https://github.com/ne-plater/rsschool-cv)
