@@ -35,4 +35,4 @@ Cases decisions, research on demand, introduction of draft decision in PowerPoin
 [Github link](https://github.com/ne-plater/rsschool-cv)
 
 
-Git test
+Git test blabla
