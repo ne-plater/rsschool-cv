@@ -31,6 +31,7 @@
  Web-development: CSS  
  Version control: Git, Github
 
+
  <h2>PROJECTS</h2>
  As I steel haven't got real projects, I'm providing a link to my additional translation [https://github.com/conventional-commits/conventionalcommits.org/pull/415]
  
@@ -43,3 +44,4 @@
             del lst[x]
  </pre>
 </body>
+======
