@@ -1,7 +1,7 @@
 # Emilia Semigradskaya
 # Listener of the course 
 
- ## CONTACTS
+## CONTACTS
  * Minsk, Belarus
  * e-mail: dragonsthreeheads@gmail.com
  * github: [ne-plater](https://github.com/ne-plater)
@@ -21,10 +21,10 @@
  * Version control: Git, Github
 
 
- ## PROJECTS
+## PROJECTS
  As I steel haven't got real projects, I'm providing a link to my additional [translation](https://github.com/conventional-commits/conventionalcommits.org/pull/415)
  
- ## CODE
+## CODE
    <pre> def modify_list(lst): 
     for x in range (len(lst)-1, -1, -1): 
         if lst[x]%2==0: 
